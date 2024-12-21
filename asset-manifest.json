@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jamieschicken/static/css/main.54b08b11.css",
+    "main.js": "/jamieschicken/static/js/main.d98b78aa.js",
+    "static/js/488.b5fe28ce.chunk.js": "/jamieschicken/static/js/488.b5fe28ce.chunk.js",
+    "index.html": "/jamieschicken/index.html",
+    "main.54b08b11.css.map": "/jamieschicken/static/css/main.54b08b11.css.map",
+    "main.d98b78aa.js.map": "/jamieschicken/static/js/main.d98b78aa.js.map",
+    "488.b5fe28ce.chunk.js.map": "/jamieschicken/static/js/488.b5fe28ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b08b11.css",
+    "static/js/main.d98b78aa.js"
+  ]
+}
